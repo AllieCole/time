@@ -52,4 +52,4 @@ d_times %>%
   datatable() %>%
   formatRound(columns=c('duration'), digits=3)
 ```
-
+# Adding a comment for class 
