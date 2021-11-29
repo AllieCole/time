@@ -5,6 +5,11 @@ date: "11/8/2021"
 output: html_document
 ---
 
+
+## Welcome!
+
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
@@ -104,6 +109,7 @@ plot_burndown(
 
 datatable(d_task)
 ```
+<<<<<<< HEAD
 
 
 ### Import 
@@ -159,3 +165,6 @@ datatable(d_task)
 
 
 
+=======
+# Adding a comment for class 
+>>>>>>> 35d86555e5a6e43db6d5a425ac33a3728d656509
