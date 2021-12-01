@@ -60,7 +60,7 @@ plot_burndown(
   d_times,
   beg = as.Date("2021-10-28"), # day before
   end = as.Date("2021-12-02"), # day after
-  hrs = 51)
+  hrs = 36)
 
 # table ALL
 datatable(d_times)
@@ -158,13 +158,3 @@ plot_burndown(
 datatable(d_task)
 ```
 
-
-
-
-
-
-
-
-=======
-# Adding a comment for class 
->>>>>>> 35d86555e5a6e43db6d5a425ac33a3728d656509
